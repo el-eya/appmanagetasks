@@ -1,0 +1,9 @@
+div{
+    border:solid 2px blue;
+    color: rgb(15, 15, 16);
+    width: 200px;
+    padding: 8px;
+    text-align: center;
+    margin: 2px;
+    float: left;
+}
